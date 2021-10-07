@@ -1,0 +1,11 @@
+.ui.top.menu{
+  border: none;
+  box-shadow: none;
+  font-size: 15px;
+}
+
+.footer{
+  background-color: #f5f3e9;
+  color: #231f20;
+  height: 188px
+}
